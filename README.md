@@ -11,6 +11,6 @@ Projeto feito em Java com Swing que desenha e rotaciona um cubo 3D com projeçã
 
 ## 📸 Preview
 
-*![img.png](img.png)*
+<img src="Imagens/cubo3d_zoom.gif" width="400"/>
 
 
